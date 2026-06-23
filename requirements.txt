@@ -1,0 +1,33 @@
+# ─────────────────────────────────────────────
+#  Distributed URL Shortener Service
+#  requirements.txt
+#  Python 3.10+
+# ─────────────────────────────────────────────
+
+# ── Jupyter Environment ──────────────────────
+jupyter==1.1.1
+notebook==7.3.3
+ipykernel==6.29.5
+nbformat==5.10.4
+
+# ── Data Processing ──────────────────────────
+pandas==3.0.2
+numpy==2.4.4
+
+# ── Visualization ────────────────────────────
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# ── Standard Library (no install needed) ─────
+# hashlib   — built-in  (MD5 short code generation)
+# sqlite3   — built-in  (indexed database)
+# threading — built-in  (concurrency / thread safety)
+# uuid      — built-in  (unique record IDs)
+# re        — built-in  (URL feature extraction)
+# string    — built-in  (Base62 alphabet)
+# json      — built-in  (API response formatting)
+# time      — built-in  (latency benchmarking)
+# random    — built-in  (random code generation)
+# collections — built-in (OrderedDict for LRU cache)
+# urllib.parse — built-in (URL parsing)
+# warnings  — built-in  (suppress deprecation warnings)
