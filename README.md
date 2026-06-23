@@ -237,6 +237,7 @@ Step 8 ── Analytics & Reporting
 
 ### Code Generation Comparison
 ![Codegen Comparison](08_codegen_comparison.png)
+
 ## 📈 Results & Performance
 
 ### Key Metrics
