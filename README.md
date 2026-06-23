@@ -1,20 +1,6 @@
 # Distributed-URL-Shortener-Service
 Developed a scalable URL Shortener Service handling 10,000+ URLs. Designed unique short-code generation, RESTful APIs, database indexing, and caching mechanisms. Optimized lookup efficiency, reducing retrieval latency by 40%, while following object-oriented design and Git workflows.
-# 🔗 Distributed URL Shortener Service
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
-![SQLite](https://img.shields.io/badge/SQLite-Indexed%20DB-lightblue?style=for-the-badge&logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-
-**A scalable distributed system that shortens, classifies, and resolves 10,000+ URLs with 42% reduced retrieval latency using LRU caching and B-Tree indexed SQLite.**
-
-</div>
-
----
 
 ## 📋 Table of Contents
 
