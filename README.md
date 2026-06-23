@@ -218,25 +218,25 @@ Step 8 ── Analytics & Reporting
 ![Category Distribution](01_category_distribution.png)
 
 ### Latency Benchmark
-![Latency Benchmark](screenshots/02_latency_benchmark.png)
+![Latency Benchmark](02_latency_benchmark.png)
 
 ### Cache Performance
-![Cache Performance](screenshots/03_cache_performance.png)
+![Cache Performance](03_cache_performance.png)
 
 ### Database Index Performance
-![Index Performance](screenshots/04_index_performance.png)
+![Index Performance](04_index_performance.png)
 
 ### Bulk Load Throughput
-![Bulk Load Throughput](screenshots/05_bulk_load_throughput.png)
+![Bulk Load Throughput](05_bulk_load_throughput.png)
 
 ### Concurrency Test
-![Concurrency Test](screenshots/06_concurrency_test.png)
+![Concurrency Test](06_concurrency_test.png)
 
 ### Feature Heatmap
-![Feature Heatmap](screenshots/07_feature_heatmap.png)
+![Feature Heatmap](07_feature_heatmap.png)
 
 ### Code Generation Comparison
-![Codegen Comparison](screenshots/08_codegen_comparison.png)
+![Codegen Comparison](08_codegen_comparison.png)
 ## 📈 Results & Performance
 
 ### Key Metrics
