@@ -1,11 +1,25 @@
 ## Screenshots
 
-| Performance Analysis | System Evaluation |
-|---------------------|-------------------|
-| ![](screenshots/02_latency_benchmark.png) | ![](screenshots/03_cache_performance.png) |
-| ![](screenshots/04_index_performance.png) | ![](screenshots/06_concurrency_test.png) |
+### Category Distribution
+![Category Distribution](screenshots/01_category_distribution.png)
 
-| Data Insights | Comparisons |
-|--------------|-------------|
-| ![](screenshots/01_category_distribution.png) | ![](screenshots/08_codegen_comparison.png) |
-| ![](screenshots/07_feature_heatmap.png) | ![](screenshots/05_bulk_load_throughput.png) |
+### Latency Benchmark
+![Latency Benchmark](screenshots/02_latency_benchmark.png)
+
+### Cache Performance
+![Cache Performance](screenshots/03_cache_performance.png)
+
+### Database Index Performance
+![Index Performance](screenshots/04_index_performance.png)
+
+### Bulk Load Throughput
+![Bulk Load Throughput](screenshots/05_bulk_load_throughput.png)
+
+### Concurrency Test
+![Concurrency Test](screenshots/06_concurrency_test.png)
+
+### Feature Heatmap
+![Feature Heatmap](screenshots/07_feature_heatmap.png)
+
+### Code Generation Comparison
+![Codegen Comparison](screenshots/08_codegen_comparison.png)
