@@ -215,7 +215,7 @@ Step 8 ── Analytics & Reporting
 ## Screenshots
 
 ### Category Distribution
-![Category Distribution](screenshots/01_category_distribution.png)
+![Category Distribution](01_category_distribution.png)
 
 ### Latency Benchmark
 ![Latency Benchmark](screenshots/02_latency_benchmark.png)
